@@ -1,4 +1,15 @@
-## ggml-org
+
+## Info
+
+The `ggml` library is the leading framework for AI inference at the edge.
+
+- Homepage: https://ggml.ai
+- Jobs: jobs@ggml.ai
+- Business: sales@ggml.ai
+- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
+
+
+## Projects
 
 ```mermaid
 graph TD;
@@ -13,3 +24,11 @@ llama.cpp[<a href="https://github.com/ggerganov/llama.cpp" style="text-decoratio
 llama.vim[<a href="https://github.com/ggml-org/llama.vim" style="text-decoration:none;">llama.vim</a>];
 llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>];
 ```
+
+
+# Used by
+
+- Company 1
+- Company 2
+
+*(let us know if you are using `ggml` tech)*
