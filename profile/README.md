@@ -1,4 +1,4 @@
-`ggml` is the leading framework for AI inference at the edge.
+#### `ggml` is the leading framework for AI inference at the edge
 
 - Homepage: https://ggml.ai
 - Jobs: jobs@ggml.ai
@@ -6,7 +6,7 @@
 - Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
 
 
-## Projects
+### Projects
 
 ```mermaid
 graph TD;
@@ -23,7 +23,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 ```
 
 
-## Used by
+### Used by
 
 - Company 1
 - Company 2
