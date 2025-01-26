@@ -23,7 +23,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 ```
 
 
-# Used by
+## Used by
 
 - Company 1
 - Company 2
