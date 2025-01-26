@@ -1,7 +1,4 @@
-
-## Info
-
-The `ggml` library is the leading framework for AI inference at the edge.
+`ggml` is the leading framework for AI inference at the edge.
 
 - Homepage: https://ggml.ai
 - Jobs: jobs@ggml.ai
