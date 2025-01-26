@@ -1,10 +1,3 @@
-### Info
-
-- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
-- Jobs: jobs@ggml.ai
-- Business: sales@ggml.ai
-
-
 ### Projects
 
 ```mermaid
@@ -20,6 +13,12 @@ llama.cpp[<a href="https://github.com/ggerganov/llama.cpp" style="text-decoratio
 llama.vim[<a href="https://github.com/ggml-org/llama.vim" style="text-decoration:none;">llama.vim</a>];
 llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>];
 ```
+
+### Info
+
+- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
+- Jobs: jobs@ggml.ai
+- Business: sales@ggml.ai
 
 
 ### Used by
