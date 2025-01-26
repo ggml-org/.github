@@ -1,9 +1,9 @@
-#### `ggml` is the leading framework for AI inference at the edge
+### Info
 
 - Homepage: https://ggml.ai
+- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
 - Jobs: jobs@ggml.ai
 - Business: sales@ggml.ai
-- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
 
 
 ### Projects
