@@ -18,7 +18,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 - Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
 - Jobs: jobs@ggml.ai *(only active contributors will be considered)*
-  - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) maintainer
+  - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) maintainer ([info](https://github.com/ggerganov/whisper.cpp/discussions/2788))
 - Business: sales@ggml.ai
 
 
