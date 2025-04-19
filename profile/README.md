@@ -26,5 +26,23 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 - `[2025 Apr 16]` [Llama 4 Runs on Arm](https://newsroom.arm.com/blog/llama-4-runs-on-arm)
 - `[2025 Apr 04]` [Run LLMs Locally with Docker](https://www.docker.com/blog/run-llms-locally/)
+- `[2025 Mar 25]` [Deploy a Large Language Model (LLM) chatbot with llama.cpp using KleidiAI on Arm servers](https://learn.arm.com/learning-paths/servers-and-cloud-computing/llama-cpu/llama-chatbot/)
 - `[2025 Feb 11]` [OLMoE, meet iOS](https://allenai.org/blog/olmoe-app)
 - `[2024 Oct 02]` [Accelerating LLMs with llama.cpp on NVIDIA RTX Systems](https://developer.nvidia.com/blog/accelerating-llms-with-llama-cpp-on-nvidia-rtx-systems/)
+
+### Uses
+
+- Chat:
+  - [LM Studio](https://lmstudio.ai)
+  - [KoboldCpp](https://github.com/LostRuins/koboldcpp)
+  - [LocalAI](https://github.com/mudler/LocalAI)
+  - [Jan](https://jan.ai)
+- Transcription:
+  - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+  - [VLC media player](https://x.com/videolan/status/1877072497146781946)
+- Mobile:
+  - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai)
+  - [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file)
+- Infra:
+  - [RamaLama](https://github.com/containers/ramalama)
+  - [paddler](https://github.com/distantmagic/paddler)
