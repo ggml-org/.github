@@ -32,9 +32,9 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### Uses
 
-| Chat | STT | Mobile | Infra |
-| ---  | --- | ---    | ---   |
-| [LM Studio](https://lmstudio.ai) | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) | [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) | [RamaLama](https://github.com/containers/ramalama) |
-| [KoboldCpp](https://github.com/LostRuins/koboldcpp) | [VLC media player](https://x.com/videolan/status/1877072497146781946) | [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file) | [paddler](https://github.com/distantmagic/paddler) |
-| [LocalAI](https://github.com/mudler/LocalAI) | [WASM](https://ggml.ai/whisper.cpp/) | | [llama-swap](https://github.com/mostlygeek/llama-swap) |
-| [Jan](https://jan.ai) | | | |
+| Chat | STT | Mobile | Infra | Cloud |
+| ---  | --- | ---    | ---   | ---   |
+| [LM Studio](https://lmstudio.ai) | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) | [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) | [RamaLama](https://github.com/containers/ramalama) | [Hugging Face](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container) |
+| [KoboldCpp](https://github.com/LostRuins/koboldcpp) | [VLC media player](https://x.com/videolan/status/1877072497146781946) | [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file) | [paddler](https://github.com/distantmagic/paddler) | |
+| [LocalAI](https://github.com/mudler/LocalAI) | [WASM](https://ggml.ai/whisper.cpp/) | | [llama-swap](https://github.com/mostlygeek/llama-swap) | |
+| [Jan](https://jan.ai) | | | | |
