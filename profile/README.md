@@ -32,17 +32,9 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### Uses
 
-- Chat:
-  - [LM Studio](https://lmstudio.ai)
-  - [KoboldCpp](https://github.com/LostRuins/koboldcpp)
-  - [LocalAI](https://github.com/mudler/LocalAI)
-  - [Jan](https://jan.ai)
-- Transcription:
-  - [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
-  - [VLC media player](https://x.com/videolan/status/1877072497146781946)
-- Mobile:
-  - [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai)
-  - [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file)
-- Infra:
-  - [RamaLama](https://github.com/containers/ramalama)
-  - [paddler](https://github.com/distantmagic/paddler)
+| Chat | STT | Mobile | Infra |
+| ---  | --- | ---    | ---   |
+| [LM Studio](https://lmstudio.ai) | [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) | [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai) | [RamaLama](https://github.com/containers/ramalama) |
+| [KoboldCpp](https://github.com/LostRuins/koboldcpp) | [VLC media player](https://x.com/videolan/status/1877072497146781946) | [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file) | [paddler](https://github.com/distantmagic/paddler) |
+| [LocalAI](https://github.com/mudler/LocalAI) | | | [llama-swap](https://github.com/mostlygeek/llama-swap) |
+| [Jan](https://jan.ai) | | | |
