@@ -1,5 +1,3 @@
-### Projects
-
 ```mermaid
 graph TD;
 ggml --> whisper.cpp
