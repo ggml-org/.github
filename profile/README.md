@@ -14,13 +14,6 @@ llama.vim[<a href="https://github.com/ggml-org/llama.vim"       style="text-deco
 llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>  <br><span style="font-size:10px;">VSCode plugin</span>];
 ```
 
-### Info
-
-- Cloud: https://endpoints.huggingface.co ([tutorial](https://huggingface.co/docs/inference-endpoints/en/guides/llamacpp_container))
-- Jobs: jobs@ggml.ai *(full-time, only active contributors will be considered)*
-  - `ggml`/`llama.cpp` maintainer
-- Business: sales@ggml.ai
-
 ### Testimonials
 
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
@@ -39,3 +32,8 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 | [LocalAI](https://github.com/mudler/LocalAI)          | [wchess](https://github.com/ggml-org/whisper.cpp/tree/master/examples/wchess) |                                                                   | [llama-swap](https://github.com/mostlygeek/llama-swap)    |                                                                                               | [VSCode](https://github.com/ggml-org/llama.cpp/pull/12896)    |
 | [Jan](https://jan.ai)                                 | [superwhisper](https://superwhisper.com)                                      |                                                                   |                                                           |                                                                                               |                                                               |
 
+### Jobs
+
+  - `ggml`/`llama.cpp` maintainer, full-time
+
+*(Apply at: jobs@ggml.ai, only active contributors will be considered)*
