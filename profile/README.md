@@ -7,11 +7,11 @@ ggml --> llama.cpp
 llama.cpp --> llama.vim
 llama.cpp --> llama.vscode
 
-ggml[<a href="https://github.com/ggml-org/ggml" style="text-decoration:none;">ggml</a>];
-whisper.cpp[<a href="https://github.com/ggml-org/whisper.cpp" style="text-decoration:none;">whisper.cpp</a>];
-llama.cpp[<a href="https://github.com/ggml-org/llama.cpp" style="text-decoration:none;">llama.cpp</a>];
-llama.vim[<a href="https://github.com/ggml-org/llama.vim" style="text-decoration:none;">llama.vim</a>];
-llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>];
+ggml[<a href="https://github.com/ggml-org/ggml"                 style="text-decoration:none;">ggml</a>          <br><span style="font-size:10px;">Machine learning library</span>];
+whisper.cpp[<a href="https://github.com/ggml-org/whisper.cpp"   style="text-decoration:none;">whisper.cpp</a>   <br><span style="font-size:10px;">speech-to-text</span>];
+llama.cpp[<a href="https://github.com/ggml-org/llama.cpp"       style="text-decoration:none;">llama.cpp</a>     <br><span style="font-size:10px;">LLM inference</span>];
+llama.vim[<a href="https://github.com/ggml-org/llama.vim"       style="text-decoration:none;">llama.vim</a>     <br><span style="font-size:10px;">Vim/Neovim plugin</span>];
+llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>  <br><span style="font-size:10px;">VSCode plugin</span>];
 ```
 
 ### Info
