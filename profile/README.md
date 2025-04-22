@@ -12,6 +12,7 @@ llama.vim[<a href="https://github.com/ggml-org/llama.vim"       style="text-deco
 llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>  <br><span style="font-size:10px;">VSCode plugin</span>];
 ```
 
+
 ### Testimonials
 
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
@@ -20,6 +21,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 - `[2025 Mar 25]` [Deploy a Large Language Model (LLM) chatbot with llama.cpp using KleidiAI on Arm servers](https://learn.arm.com/learning-paths/servers-and-cloud-computing/llama-cpu/llama-chatbot/)
 - `[2025 Feb 11]` [OLMoE, meet iOS](https://allenai.org/blog/olmoe-app)
 - `[2024 Oct 02]` [Accelerating LLMs with llama.cpp on NVIDIA RTX Systems](https://developer.nvidia.com/blog/accelerating-llms-with-llama-cpp-on-nvidia-rtx-systems/)
+
 
 ### Use cases
 
@@ -35,3 +37,9 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
   - `ggml`/`llama.cpp` maintainer, full-time
 
     *apply at jobs@ggml.ai (only active contributors will be considered)*
+
+
+### Partners
+
+- [Hugging Face](./PARTNERS.md#hugging-face)
+- [NVIDIA](./PARTNERS.md#nvidia)
