@@ -38,4 +38,5 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### Partners
 
-- [Hugging Face](https://huggingface.co)
+- [Hugging Face](./PARTNERS.md#hugging-face)
+- [NVIDIA](./PARTNERS.md#nvidia)
