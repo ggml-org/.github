@@ -13,7 +13,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 ```
 
 
-### Testimonials
+### News
 
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 - `[2025 Apr 16]` [Llama 4 Runs on Arm](https://newsroom.arm.com/blog/llama-4-runs-on-arm)
