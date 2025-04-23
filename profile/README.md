@@ -35,7 +35,3 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
   - `ggml`/`llama.cpp` maintainer, full-time
 
     *apply at jobs@ggml.ai (only active contributors will be considered)*
-
-### Partners
-
-- [Hugging Face](https://huggingface.co)
