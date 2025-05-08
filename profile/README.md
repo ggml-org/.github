@@ -15,6 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
+- `[2025 May 08]` [LM Studio Accelerates LLM Performance With NVIDIA GeForce RTX GPUs and CUDA 12.8](https://blogs.nvidia.com/blog/rtx-ai-garage-lmstudio-llamacpp-blackwell/?linkId=100000364129480)
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
 - `[2025 Apr 16]` [Llama 4 Runs on Arm](https://newsroom.arm.com/blog/llama-4-runs-on-arm)
 - `[2025 Apr 04]` [Run LLMs Locally with Docker](https://www.docker.com/blog/run-llms-locally/)
