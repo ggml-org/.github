@@ -15,6 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
+- `[2025 Jun 03]` [Try out Link Previews in Firefox Labs 138](https://connect.mozilla.org/t5/firefox-labs/try-out-link-previews-in-firefox-labs-138-and-share-your/td-p/92012)
 - `[2025 May 29]` [Llama.cpp and GGML are optimized for NVIDIA RTX GPUs and the fifth-generation Tensor Cores](https://blogs.nvidia.com/blog/rtx-ai-garage-anythingllm-nim/)
 - `[2025 May 08]` [LM Studio Accelerates LLM Performance With NVIDIA GeForce RTX GPUs and CUDA 12.8](https://blogs.nvidia.com/blog/rtx-ai-garage-lmstudio-llamacpp-blackwell/?linkId=100000364129480)
 - `[2025 Apr 18]` [Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/)
