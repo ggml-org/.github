@@ -15,6 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
+- `[2025 Jun 10]` [Docker Model Runner adds Qualcomm support](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
 - `[2025 Jun 05]` [Run small language models cost-efficiently with AWS Graviton and Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/run-small-language-models-cost-efficiently-with-aws-graviton-and-amazon-sagemaker-ai/)
 - `[2025 Jun 03]` [Try out Link Previews in Firefox Labs 138](https://connect.mozilla.org/t5/firefox-labs/try-out-link-previews-in-firefox-labs-138-and-share-your/td-p/92012)
 - `[2025 May 29]` [Llama.cpp and GGML are optimized for NVIDIA RTX GPUs and the fifth-generation Tensor Cores](https://blogs.nvidia.com/blog/rtx-ai-garage-anythingllm-nim/)
