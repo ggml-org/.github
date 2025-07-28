@@ -15,6 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
+- `[2025 Jul 26]` [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
 - `[2025 Jul 10]` [Introducing LFM2: The Fastest On-Device Foundation Models on the Market](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models)
 - `[2025 Jun 26]` [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
 - `[2025 Jun 23]` [Running and optimizing small language models on-premises and at the edge](https://aws.amazon.com/blogs/compute/running-and-optimizing-small-language-models-on-premises-and-at-the-edge/)
