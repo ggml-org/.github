@@ -15,6 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
+- `[2025 Jul 30]` [MLCommons Releases MLPerf Client v1.0: A New Standard for AI PC and Client LLM Benchmarking](https://mlcommons.org/2025/07/mlperf-client-v1-0/)
 - `[2025 Jul 26]` [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
 - `[2025 Jul 10]` [Introducing LFM2: The Fastest On-Device Foundation Models on the Market](https://www.liquid.ai/blog/liquid-foundation-models-v2-our-second-series-of-generative-ai-models)
 - `[2025 Jun 26]` [Introducing Gemma 3n: The developer guide](https://developers.googleblog.com/en/introducing-gemma-3n-developer-guide/)
