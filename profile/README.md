@@ -15,7 +15,7 @@ llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-deco
 
 ### News
 
-- `[2025 Aug 19]` [Firefox 142 Allows Browser Extensions/Add-Ons To Use AI LLMs](https://www.firefox.com/en-US/firefox/142.0beta/releasenotes/)
+- `[2025 Aug 19]` [Firefox 142 Allows Browser Extensions/Add-Ons To Use AI LLMs](https://www.firefox.com/en-US/firefox/142.0/releasenotes/)
 - `[2025 Aug 13]` [FFmpeg 8.0 Merges OpenAI Whisper Filter For Automatic Speech Recognition](https://www.phoronix.com/news/FFmpeg-Lands-Whisper)
 - `[2025 Jul 30]` [MLCommons Releases MLPerf Client v1.0: A New Standard for AI PC and Client LLM Benchmarking](https://mlcommons.org/2025/07/mlperf-client-v1-0/)
 - `[2025 Jul 26]` [Shotcut 25.07 Video Editor Introduces Speech to Text Model Downloader](https://9to5linux.com/shotcut-25-07-video-editor-introduces-speech-to-text-model-downloader)
