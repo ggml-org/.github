@@ -12,3 +12,4 @@ We are thankful for the continuous support from the following organizations:
 ### NVIDIA (technical collaboration)
 
 - Technical discussions and code contributions to the CUDA backend
+- Hardware provision
