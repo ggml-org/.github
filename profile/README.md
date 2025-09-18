@@ -19,6 +19,7 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 
 ### News
 
+- `[2025 Sep 18]` [Latest Open-Source AMD Improvements Allowing For Better Llama.cpp AI Performance Against Windows 11](https://www.phoronix.com/review/llama-cpp-windows-linux)
 - `[2025 Aug 19]` [Firefox 142 Allows Browser Extensions/Add-Ons To Use AI LLMs](https://www.firefox.com/en-US/firefox/142.0/releasenotes/)
 - `[2025 Aug 13]` [FFmpeg 8.0 Merges OpenAI Whisper Filter For Automatic Speech Recognition](https://www.phoronix.com/news/FFmpeg-Lands-Whisper)
 - `[2025 Jul 30]` [MLCommons Releases MLPerf Client v1.0: A New Standard for AI PC and Client LLM Benchmarking](https://mlcommons.org/2025/07/mlperf-client-v1-0/)
