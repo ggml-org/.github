@@ -19,6 +19,7 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 
 ### News
 
+- `[2025 Oct 21]` [NVIDIA RTX 5090 outperforms AMD and Apple running local OpenAI language models](https://www.pcworld.com/article/2916928/nvidia-rtx-5090-outperforms-amd-and-apple-running-local-openai-language-models.html)
 - `[2025 Sep 18]` [Latest Open-Source AMD Improvements Allowing For Better Llama.cpp AI Performance Against Windows 11](https://www.phoronix.com/review/llama-cpp-windows-linux)
 - `[2025 Sep 09]` [Llama.cpp Meets Instinct: A New Era of Open-Source AI Acceleration](https://rocm.blogs.amd.com/ecosystems-and-partners/llama-cpp/README.html)
 - `[2025 Aug 19]` [Firefox 142 Allows Browser Extensions/Add-Ons To Use AI LLMs](https://www.firefox.com/en-US/firefox/142.0/releasenotes/)
