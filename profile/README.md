@@ -3,17 +3,25 @@ graph TD;
 ggml --> whisper.cpp
 ggml --> llama.cpp
 llama.cpp --> coding
+llama.cpp --> providers
+
 subgraph coding[Coding]
     llama.vim
     llama.vscode
     llama.qtcreator
 end
-ggml[<a href="https://github.com/ggml-org/ggml"                 style="text-decoration:none;">ggml</a>          <br><span style="font-size:10px;">Machine learning library</span>];
-whisper.cpp[<a href="https://github.com/ggml-org/whisper.cpp"   style="text-decoration:none;">whisper.cpp</a>   <br><span style="font-size:10px;">speech-to-text</span>];
-llama.cpp[<a href="https://github.com/ggml-org/llama.cpp"       style="text-decoration:none;">llama.cpp</a>     <br><span style="font-size:10px;">LLM inference</span>];
-llama.vim[<a href="https://github.com/ggml-org/llama.vim"       style="text-decoration:none;">llama.vim</a>     <br><span style="font-size:10px;">Vim/Neovim plugin</span>];
-llama.vscode[<a href="https://github.com/ggml-org/llama.vscode" style="text-decoration:none;">llama.vscode</a>  <br><span style="font-size:10px;">VSCode plugin</span>];
-llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="text-decoration:none;">llama.qtcreator</a>  <br><span style="font-size:10px;">Qt Creator plugin</span>];
+
+subgraph providers[Providers]
+    LlamaBarn
+end
+
+ggml[<a href="https://github.com/ggml-org/ggml"                       style="text-decoration:none;">ggml</a>            <br><span style="font-size:10px;">Machine learning library</span>];
+whisper.cpp[<a href="https://github.com/ggml-org/whisper.cpp"         style="text-decoration:none;">whisper.cpp</a>     <br><span style="font-size:10px;">speech-to-text</span>];
+llama.cpp[<a href="https://github.com/ggml-org/llama.cpp"             style="text-decoration:none;">llama.cpp</a>       <br><span style="font-size:10px;">LLM inference</span>];
+llama.vim[<a href="https://github.com/ggml-org/llama.vim"             style="text-decoration:none;">llama.vim</a>       <br><span style="font-size:10px;">Vim/Neovim plugin</span>];
+llama.vscode[<a href="https://github.com/ggml-org/llama.vscode"       style="text-decoration:none;">llama.vscode</a>    <br><span style="font-size:10px;">VSCode plugin</span>];
+llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="text-decoration:none;">llama.qtcreator</a> <br><span style="font-size:10px;">Qt Creator plugin</span>];
+LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="text-decoration:none;">LlamaBarn</a>       <br><span style="font-size:10px;">macOS app</span>];
 ```
 
 
@@ -52,7 +60,7 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 | [KoboldCpp](https://github.com/LostRuins/koboldcpp)   | [VLC media player](https://x.com/videolan/status/1877072497146781946)         | [LLMFarm](https://github.com/guinmoon/LLMFarm?tab=readme-ov-file) | [paddler](https://github.com/distantmagic/paddler)              |                                                                                               | [llama.vscode](https://github.com/ggml-org/llama.vscode)      |
 | [LocalAI](https://github.com/mudler/LocalAI)          | [wchess](https://github.com/ggml-org/whisper.cpp/tree/master/examples/wchess) | [ChatterUI](https://github.com/Vali-98/ChatterUI)                 | [llama-swap](https://github.com/mostlygeek/llama-swap)          |                                                                                               | [VSCode](https://github.com/ggml-org/llama.cpp/pull/12896)    |
 | [Jan](https://jan.ai)                                 | [superwhisper](https://superwhisper.com)                                      | [SmolChat](https://github.com/shubham0204/SmolChat-Android)       | [Docker Model Runner](https://docs.docker.com/ai/model-runner/) |                                                                                               |                                                               |
-| [text-generation-webui](https://github.com/oobabooga/text-generation-webui)                                 | [hyprnote](https://github.com/fastrepl/hyprnote)       |                                                                   |                                                           |                                                                                               |                                                               |
+| [text-generation-webui](https://github.com/oobabooga/text-generation-webui)  | [hyprnote](https://github.com/fastrepl/hyprnote)       |                                                                   | [LlamaBarn](https://github.com/ggml-org/LlamaBarn)              |                                                                                               |                                                               |
 
 
 ### Partners
