@@ -27,6 +27,9 @@ LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="tex
 
 ### News
 
+- `[2026 Jan 28]` [LlamaBarn v0.24.0 released](https://github.com/ggml-org/LlamaBarn/releases/tag/0.24.0)
+- `[2026 Jan 15]` [whisper.cpp v1.8.3 released](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.3)
+- `[2025 Dec 31]` [ggml v0.9.5 released](https://github.com/ggml-org/ggml/releases/tag/v0.9.5)
 - `[2025 Dec 12]` [Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves](https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/)
 - `[2025 Oct 28]` [ggml-org/llama.cpp featured in GitHub's Octoverse 2025 report as Top OSS by contributors](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)
 - `[2025 Oct 21]` [NVIDIA RTX 5090 outperforms AMD and Apple running local OpenAI language models](https://www.pcworld.com/article/2916928/nvidia-rtx-5090-outperforms-amd-and-apple-running-local-openai-language-models.html)
