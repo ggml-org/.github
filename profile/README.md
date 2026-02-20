@@ -27,6 +27,7 @@ LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="tex
 
 ### News
 
+- `[2026 Feb 20]` [ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 - `[2026 Jan 28]` [LlamaBarn v0.24.0 released](https://github.com/ggml-org/LlamaBarn/releases/tag/0.24.0)
 - `[2026 Jan 15]` [whisper.cpp v1.8.3 released](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.3)
 - `[2025 Dec 31]` [ggml v0.9.5 released](https://github.com/ggml-org/ggml/releases/tag/v0.9.5)
