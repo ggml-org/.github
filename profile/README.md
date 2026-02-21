@@ -24,6 +24,10 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="text-decoration:none;">LlamaBarn</a>       <br><span style="font-size:10px;">macOS app</span>];
 ```
 
+### Links
+
+- https://huggingface.co/ggml-org - `ggml-org` at Hugging Face
+
 
 ### News
 
