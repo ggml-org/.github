@@ -1,3 +1,9 @@
+### Overview
+
+The `ggml-org` organization on Github develops and supports the [ggml](https://github.com/ggml-org/ggml) machine learning library and related projects.
+
+- https://huggingface.co/ggml-org - `ggml-org` at Hugging Face
+
 ```mermaid
 graph TD;
 ggml --> whisper.cpp
@@ -24,16 +30,18 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="text-decoration:none;">LlamaBarn</a>       <br><span style="font-size:10px;">macOS app</span>];
 ```
 
-### Links
-
-- https://huggingface.co/ggml-org - `ggml-org` at Hugging Face
-
 
 ### News
 
+- `[2026 Mar 19]` [whisper.cpp v1.8.4](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.4)
+- `[2026 Mar 16]` [ggml v0.9.8 released](https://github.com/ggml-org/ggml/releases/tag/v0.9.8)
 - `[2026 Feb 20]` [ggml.ai joins Hugging Face :tada:](https://github.com/ggml-org/llama.cpp/discussions/19759)
 - `[2026 Jan 28]` [LlamaBarn v0.24.0 released](https://github.com/ggml-org/LlamaBarn/releases/tag/0.24.0)
 - `[2026 Jan 15]` [whisper.cpp v1.8.3 released](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.3)
+
+<details>
+    <summary>News 2025</summary>
+
 - `[2025 Dec 31]` [ggml v0.9.5 released](https://github.com/ggml-org/ggml/releases/tag/v0.9.5)
 - `[2025 Dec 12]` [Building zero trust generative AI applications in healthcare with AWS Nitro Enclaves](https://aws.amazon.com/blogs/compute/building-zero-trust-generative-ai-applications-in-healthcare-with-aws-nitro-enclaves/)
 - `[2025 Oct 28]` [ggml-org/llama.cpp featured in GitHub's Octoverse 2025 report as Top OSS by contributors](https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/)
@@ -58,6 +66,7 @@ LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="tex
 - `[2025 Mar 25]` [Deploy a Large Language Model (LLM) chatbot with llama.cpp using KleidiAI on Arm servers](https://learn.arm.com/learning-paths/servers-and-cloud-computing/llama-cpu/llama-chatbot/)
 - `[2025 Feb 11]` [OLMoE, meet iOS](https://allenai.org/blog/olmoe-app)
 - `[2024 Oct 02]` [Accelerating LLMs with llama.cpp on NVIDIA RTX Systems](https://developer.nvidia.com/blog/accelerating-llms-with-llama-cpp-on-nvidia-rtx-systems/)
+</details>
 
 
 ### Use cases
@@ -69,7 +78,7 @@ LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="tex
 | [LocalAI](https://github.com/mudler/LocalAI)          | [wchess](https://github.com/ggml-org/whisper.cpp/tree/master/examples/wchess) | [ChatterUI](https://github.com/Vali-98/ChatterUI)                 | [llama-swap](https://github.com/mostlygeek/llama-swap)          |                                                                                               | [VSCode](https://github.com/ggml-org/llama.cpp/pull/12896)    |
 | [Jan](https://jan.ai)                                 | [superwhisper](https://superwhisper.com)                                      | [SmolChat](https://github.com/shubham0204/SmolChat-Android)       | [Docker Model Runner](https://docs.docker.com/ai/model-runner/) |                                                                                               |                                                               |
 | [text-generation-webui](https://github.com/oobabooga/text-generation-webui)  | [hyprnote](https://github.com/fastrepl/hyprnote)       |                                                                   | [LlamaBarn](https://github.com/ggml-org/LlamaBarn)              |                                                                                               |                                                               |
-
+|                                                                              | [handy](https://handy.computer)                        |                                                                   |                                                                 |                                                                                               |                                                               |
 
 ### Partners
 
