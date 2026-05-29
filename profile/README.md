@@ -34,7 +34,7 @@ LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="tex
 
 ### News
 
-- `[2026 May 29]` [llama.app released](https://llama.cpp)
+- `[2026 May 29]` [llama.app released](https://llama.app)
 - `[2026 May 29]` [whisper.cpp v1.8.5](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.5)
 - `[2026 Mar 22]` [VMware Private AI Foundation with NVIDIA 9.0](https://techdocs.broadcom.com/us/en/vmware-cis/private-ai/foundation-with-nvidia/9-0/private-ai-release-notes/vmware-private-ai-services-release-notes.html)
 - `[2026 Mar 19]` [whisper.cpp v1.8.4](https://github.com/ggml-org/whisper.cpp/releases/tag/v1.8.4)
