@@ -19,6 +19,7 @@ subgraph coding[Coding]
 end
 
 subgraph providers[Providers]
+    llama
     LlamaBarn
 end
 
@@ -28,6 +29,7 @@ llama.cpp[<a href="https://github.com/ggml-org/llama.cpp"             style="tex
 llama.vim[<a href="https://github.com/ggml-org/llama.vim"             style="text-decoration:none;">llama.vim</a>       <br><span style="font-size:10px;">Vim/Neovim plugin</span>];
 llama.vscode[<a href="https://github.com/ggml-org/llama.vscode"       style="text-decoration:none;">llama.vscode</a>    <br><span style="font-size:10px;">VSCode plugin</span>];
 llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="text-decoration:none;">llama.qtcreator</a> <br><span style="font-size:10px;">Qt Creator plugin</span>];
+llama[<a href="https://llama.app"                                     style="text-decoration:none;">llama</a>           <br><span style="font-size:10px;">CLI app</span>];
 LlamaBarn[<a href="https://github.com/ggml-org/LlamaBarn"             style="text-decoration:none;">LlamaBarn</a>       <br><span style="font-size:10px;">macOS app</span>];
 ```
 
