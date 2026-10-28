@@ -9,8 +9,8 @@ The `ggml-org` organization on Github develops and supports the [ggml](https://g
 graph TD;
 ggml --> whisper.cpp
 ggml --> llama.cpp
-llama.cpp --> coding
 llama.cpp --> providers
+providers --> coding
 
 subgraph coding[Coding]
     llama.vim
