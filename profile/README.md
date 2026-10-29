@@ -12,6 +12,12 @@ ggml --> llama.cpp
 llama.cpp --> providers
 providers --> coding
 
+subgraph libraries[Libraries]
+    ggml
+    llama.cpp
+    whisper.cpp
+end
+
 subgraph coding[Coding]
     llama.vim
     llama.vscode
