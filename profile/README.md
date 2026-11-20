@@ -10,6 +10,7 @@ graph TD;
 ggml --> whisper.cpp
 ggml --> llama.cpp
 llama.cpp --> providers
+llama.cpp --> branding
 providers --> coding
 
 subgraph libraries[Libraries]
@@ -30,6 +31,10 @@ subgraph providers[Providers]
     Llama-Windows
 end
 
+subgraph branding[Branding]
+    llama-brand
+end
+
 ggml[<a href="https://github.com/ggml-org/ggml"                       style="text-decoration:none;">ggml</a>            <br><span style="font-size:10px;">Machine learning library</span>];
 whisper.cpp[<a href="https://github.com/ggml-org/whisper.cpp"         style="text-decoration:none;">whisper.cpp</a>     <br><span style="font-size:10px;">speech-to-text</span>];
 llama.cpp[<a href="https://github.com/ggml-org/llama.cpp"             style="text-decoration:none;">llama.cpp</a>       <br><span style="font-size:10px;">LLM inference</span>];
@@ -39,4 +44,5 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 llama[<a href="https://llama.app"                                     style="text-decoration:none;">llama</a>           <br><span style="font-size:10px;">CLI app</span>];
 Llama-macOS[<a href="https://github.com/ggml-org/Llama-macOS"         style="text-decoration:none;">Llama-macOS</a>     <br><span style="font-size:10px;">macOS app</span>];
 Llama-Windows[<a href="https://github.com/ggml-org/Llama-Windows"     style="text-decoration:none;">Llama-Windows</a>   <br><span style="font-size:10px;">Windows app</span>];
+Llama-brand[<a href="https://github.com/ggml-org/llama-brand"         style="text-decoration:none;">llama-brand</a>     <br><span style="font-size:10px;">macOS app</span>];
 ```
