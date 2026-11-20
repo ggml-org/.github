@@ -44,5 +44,5 @@ llama.qtcreator[<a href="https://github.com/ggml-org/llama.qtcreator" style="tex
 llama[<a href="https://llama.app"                                     style="text-decoration:none;">llama</a>           <br><span style="font-size:10px;">CLI app</span>];
 Llama-macOS[<a href="https://github.com/ggml-org/Llama-macOS"         style="text-decoration:none;">Llama-macOS</a>     <br><span style="font-size:10px;">macOS app</span>];
 Llama-Windows[<a href="https://github.com/ggml-org/Llama-Windows"     style="text-decoration:none;">Llama-Windows</a>   <br><span style="font-size:10px;">Windows app</span>];
-Llama-brand[<a href="https://github.com/ggml-org/llama-brand"         style="text-decoration:none;">llama-brand</a>     <br><span style="font-size:10px;">macOS app</span>];
+llama-brand[<a href="https://github.com/ggml-org/llama-brand"         style="text-decoration:none;">llama-brand</a>     <br><span style="font-size:10px;">brand assets</span>];
 ```
